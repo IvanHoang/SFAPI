@@ -1,0 +1,6 @@
+﻿<Request service="OrderZDService" lang="zh-CN"> 
+  <Head>SLKJ2019</Head>  
+  <Body> 
+    <OrderZD orderid="QIAO-20180104001" parcel_quantity="2"/> 
+  </Body> 
+</Request>

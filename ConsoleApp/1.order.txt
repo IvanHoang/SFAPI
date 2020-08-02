@@ -1,0 +1,28 @@
+﻿<Request service="OrderService" lang="zh-CN">
+<Head>SLKJ2019</Head> 
+<Body> 
+	<Order 
+	          orderid="QIAO-20180109001" 
+    	          express_type='1' 
+                  j_province='广东省'
+                  j_city='深圳市'  
+                  j_company='顺丰镖局'
+                  j_contact='艾丽丝'
+                  j_tel='15012345678'
+                  j_address='福田区新洲十一街万基商务大厦26楼'              
+                  d_province='广东省' 
+			   d_city='广州市' 
+			   d_county=''
+			   d_company='神罗科技' 
+			   d_contact='风一样的旭哥' 
+			   d_tel='33992159' 
+			   d_address='海珠区宝芝林大厦701室'  
+                  parcel_quantity='1' 
+                  pay_method='3'
+                  custid ='7551234567'  
+                  customs_batchs=''
+                   cargo='iphone 7 plus' >
+			    <AddedService name='COD' value='1.01' value1='7551234567'/>                                                                                                                                                           
+         </Order>
+</Body> 
+</Request>

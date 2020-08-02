@@ -1,0 +1,8 @@
+﻿<Request service='OrderFilterService' lang='zh-CN'>
+<Head>SLKJ2019</Head>
+<Body>
+<OrderFilter filter_type='1' orderid='QIAO-20180104001' d_address='新疆维吾尔自治区喀什地区喀什市尤木拉克协海尔路11号'>
+	<OrderFilterOption j_tel='4001118851' j_address='广东省深圳市福田区万基商务大厦A座10F' d_tel='15818539050' j_custid='0123456789'/>
+</OrderFilter>
+</Body>
+</Request>

@@ -1,0 +1,6 @@
+﻿<Request service='OrderSearchService' lang='zh-CN'>
+<Head>SLKJ2019</Head>
+<Body>
+<OrderSearch orderid='QIAO-20180104001'/>
+</Body>
+</Request>
